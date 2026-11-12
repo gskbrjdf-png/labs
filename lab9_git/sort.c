@@ -11,3 +11,4 @@ void bubbleSort(int a[], int n) {
 }
 
 //perv kommentari
+// second kommentari
